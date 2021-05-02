@@ -1,0 +1,4 @@
+"vsim cache_TB +M=0 +filename=tracefile.txt" for mode 0
+"vsim cache_TB +M=1 +filename=tracefile.txt" for mode 1
+
+"run -all"
